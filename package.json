@@ -16,7 +16,10 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-toastify": "^7.0.4",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "customize-cra": "^1.0.0",
+    "react-app-rewired": "^2.1.8"
   },
   "scripts": {
     "start": "react-app-rewired start",
@@ -41,10 +44,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "babel-plugin-module-resolver": "^4.1.0",
-    "customize-cra": "^1.0.0",
-    "react-app-rewired": "^2.1.8"
   }
 }
